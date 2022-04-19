@@ -1,0 +1,11 @@
+.inline {
+	display: inline-block;
+}
+
+.line-through {
+	text-decoration: line-through;
+}
+
+.logo {
+	color: white;
+}
